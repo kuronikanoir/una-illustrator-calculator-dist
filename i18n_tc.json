@@ -1,6 +1,6 @@
 {
-  "page_title": "{artistName} 建模計算器",
-  "logo_subtitle": "Live2D 報價生成器",
+  "page_title": "Alin 繪圖計算器",
+  "logo_subtitle": "繪圖 報價生成器",
   "link_text": "連結",
   "sns_text": "社群平台",
   "last_modified": "最後更新：",
@@ -50,5 +50,5 @@
   "markdown_pricing_details": "定價詳情",
   "markdown_subtotal": "小計",
   "markdown_estimated_total": "估算總價",
-  "markdown_note": "請注意，這只是一個粗略的報價。\n最終的定價估算需要對您的源 PSD 圖層進行詳細分析。"
+  "markdown_note": "請注意，這只是一個粗略的報價。\n最終的定價估算需要對您的需求進行詳細分析。"
 }
